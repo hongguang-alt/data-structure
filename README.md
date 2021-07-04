@@ -6,7 +6,7 @@
 - 先进后出的场景。
 - js中的任务栈。
 
----
+<hr style="height:1px" />
 
 #### 队列
 
@@ -14,28 +14,28 @@
 - 先进先出的场景。
 - js中的任务队列。
 
----
+<hr style="height:1px" />
 
 #### 链表
 
 - js中没有链表，我们要使用object来模拟一个链表。
 - js中的原型链
 
----
+<hr style="height:1px" />
 
 #### 集合
 
 - ES6中存在集合，为Set。
 - 一种无序且唯一的结构。
 
----
+<hr style="height:1px" />
 
 #### 字典
 
 - ES6中存在字典，为Map。
 - 存储唯一值，用键值对表示。
 
----
+<hr style="height:1px" />
 
 #### 树
 
@@ -45,7 +45,7 @@
   - 深度遍历——先序，中序，后序。
   - 广度遍历。
 
----
+<hr style="height:1px" />
 
 #### 图
 
@@ -57,7 +57,7 @@
   - 深度优先。
   - 广度优先。
 
----
+<hr style="height:1px" />
 
 #### 堆
 
@@ -68,11 +68,11 @@
   - 右侧子节点的位置为 2 * index + 2
   - 父节点的位置是 （index - 1） / 2
 
-<img src="README.assets/image-20210704211503310.png" alt="image-20210704211503310" style="zoom:20%;" />
+<img src="README.assets/image-20210704211503310.png" alt="image-20210704211503310" style="zoom:10%;" />
 
 - 对应的方法
   - 实现最小堆
 
----
+<hr style="height:1px" />
 
 未完待续......
