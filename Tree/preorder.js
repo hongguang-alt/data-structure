@@ -31,4 +31,5 @@ const preorderStack = (root) => {
     if (n.left) stack.push(n.left);
   }
 };
+
 preorderStack(bt);
