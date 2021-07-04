@@ -42,8 +42,8 @@
 - 一种分层数据的抽象模型。
 - js 中的：DOM 树，级联选择...
 - 对应的遍历
-  - 深度遍历——[先序](https://github.com/hongguang-alt/data-structure/blob/master/Tree/preorder.js)，中序，后序。
-  - 广度遍历。
+  - [深度遍历](https://github.com/hongguang-alt/data-structure/blob/master/Tree/dfs.js)——[先序](https://github.com/hongguang-alt/data-structure/blob/master/Tree/preorder.js)，[中序](https://github.com/hongguang-alt/data-structure/blob/master/Tree/midorder.js)，[后序](https://github.com/hongguang-alt/data-structure/blob/master/Tree/lastorder.js)。
+  - [广度遍历](https://github.com/hongguang-alt/data-structure/blob/master/Tree/bfs.js)。
 
 <hr style="height:1px" />
 
@@ -54,8 +54,8 @@
   - 邻接矩阵。
   - 邻接表。
 - 对应的遍历
-  - 深度优先。
-  - 广度优先。
+  - [深度优先](https://github.com/hongguang-alt/data-structure/blob/master/Graph/dfs.js)。
+  - [广度优先](https://github.com/hongguang-alt/data-structure/blob/master/Graph/bfs.js)。
 
 <hr style="height:1px" />
 
@@ -71,7 +71,7 @@
 <img src="README.assets/image-20210704211503310.png" alt="image-20210704211503310" style="zoom:10%;" />
 
 - 对应的方法
-  - 实现最小堆
+  - [实现最小堆](https://github.com/hongguang-alt/data-structure/blob/master/Heap/minHeap.js)
 
 <hr style="height:1px" />
 
