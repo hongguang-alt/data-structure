@@ -42,7 +42,7 @@
 - 一种分层数据的抽象模型。
 - js 中的：DOM 树，级联选择...
 - 对应的遍历
-  - 深度遍历——先序，中序，后序。
+  - 深度遍历——[先序](https://github.com/hongguang-alt/data-structure/blob/master/Tree/preorder.js)，中序，后序。
   - 广度遍历。
 
 <hr style="height:1px" />
