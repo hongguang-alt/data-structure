@@ -75,4 +75,12 @@
 
 <hr style="height:1px" />
 
+#### 排序
+
+- [冒泡排序](https://github.com/hongguang-alt/data-structure/blob/master/Sort/bubble.js)
+- [选择排序](https://github.com/hongguang-alt/data-structure/blob/master/Sort/select.js)
+- [插入排序](https://github.com/hongguang-alt/data-structure/blob/master/Sort/insert.js)
+
+<hr style="height:1px" />
+
 未完待续......
