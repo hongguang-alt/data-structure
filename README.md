@@ -80,6 +80,24 @@
 - [冒泡排序](https://github.com/hongguang-alt/data-structure/blob/master/Sort/bubble.js)
 - [选择排序](https://github.com/hongguang-alt/data-structure/blob/master/Sort/select.js)
 - [插入排序](https://github.com/hongguang-alt/data-structure/blob/master/Sort/insert.js)
+- [归并排序](https://github.com/hongguang-alt/data-structure/blob/master/Sort/merge.js)
+- [快速排序](https://github.com/hongguang-alt/data-structure/blob/master/Sort/quick.js)
+
+<hr style="height:1px" />
+
+#### 搜索
+
+- [顺序搜索](https://github.com/hongguang-alt/data-structure/blob/master/Search/sequential.js)
+- [二分搜索](https://github.com/hongguang-alt/data-structure/blob/master/Search/binary.js)
+
+<hr style="height:1px" />
+
+#### 算法思想
+
+- 分而治之
+- 动态规划
+- 贪心算法
+- 回溯算法
 
 <hr style="height:1px" />
 
